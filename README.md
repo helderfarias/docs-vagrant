@@ -1,1 +1,1 @@
-# docs-vagrant
+# Running vagrant behind proxy
